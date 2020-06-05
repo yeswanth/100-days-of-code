@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: June 27, Thursday
 
 **Today's Progress**: I've setup a basic project with Gatsby and added airtable integration
 
