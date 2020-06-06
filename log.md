@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: June 8, Saturday
+
+**Today's Progress**: Working on the logic and deploying it on Netlify
+
+**Thoughts** I already put a decent first version out there. There could be some improvements made on the CSS front  
+
+**Link(s) to work**
+1. [Which TV Show to Watch Next](https://which-tv-show-to-watch-next.netlify.app)
+
 ### Day 2: June 7, Friday
 
 **Today's Progress**: Working on the layout and learning about tailwindcss
