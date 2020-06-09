@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 3: June 8, Saturday
+### Day 5: June 9, Monday 
+
+**Today's Progress**: Updated CSS and fixed some bugs
+
+**Thoughts** Referring to documentation and hacking my way through CSS. Need to get better
+
+**Link(s) to work**
+1. [Tailwind CSS](https://tailwindcss.com/docs)
+
+
+### Day 4: June 7, Sunday
+
+**Today's Progress**: Reading on TailwindCSS
+
+**Thoughts** Need to grasp the concepts of TailwindCSS to be able to navigate it 
+
+**Link(s) to work**
+1. [Tailwind CSS](https://tailwindcss.com/docs)
+
+### Day 3: June 6, Saturday
 
 **Today's Progress**: Working on the logic and deploying it on Netlify
 
@@ -9,7 +28,7 @@
 **Link(s) to work**
 1. [Which TV Show to Watch Next](https://which-tv-show-to-watch-next.netlify.app)
 
-### Day 2: June 7, Friday
+### Day 2: June 5, Friday
 
 **Today's Progress**: Working on the layout and learning about tailwindcss
 
@@ -18,7 +37,7 @@
 **Link(s) to work**
 1. [Tailwind CSS](https://tailwindcss.com/docs)
 
-### Day 1: June 27, Thursday
+### Day 1: June 4, Thursday
 
 **Today's Progress**: I've setup a basic project with Gatsby and added airtable integration
 
