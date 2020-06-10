@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 10, Tuesday 
+
+**Today's Progress**: Went through DynamoDB documentation
+
+**Thoughts** Will have to work on a real example to get a hang of it. Will plan to implement sharing feature using this. 
+
+**Link(s) to work**
+1. [DynamoDB](https://docs.aws.amazon.com/dynamodb/index.html)
+
 ### Day 5: June 9, Monday 
 
 **Today's Progress**: Updated CSS and fixed some bugs
