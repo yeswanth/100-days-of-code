@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: June 12, Friday 
+**Today's Progress**: Working on a data model with DynamoDB documentation
+
+**Thoughts** This is work in progress and I should document the datamodel somewhere online 
+
+**Link(s) to work**
+1. [DynamoDB](https://docs.aws.amazon.com/dynamodb/index.html)
+
+
 ### Day 6: June 10, Tuesday 
 
 **Today's Progress**: Went through DynamoDB documentation
