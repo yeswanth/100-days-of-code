@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+
+
+### Day 9: June 14, Sunday
+**Today's Progress**: Worked on Data model creation for which-tv-show-to-watch
+
+**Thoughts** Started with the initial set of ideas. Will have to try out few queries to see if I got a hang of it
+
+**Link(s) to work**
+1. [Data Model](https://github.com/yeswanth/which-tv-show-to-watch/blob/master/docs/data-model.md)
+
+
+### Day 8: June 13, Saturday
+**Today's Progress**: Finished DynamoDB tutorial
+
+**Thoughts** The tutorial was helpful, but I will need to run it myself to really get a hang of the concepts
+
+**Link(s) to work**
+1. [Tutorial](https://aws.amazon.com/getting-started/hands-on/design-a-database-for-a-mobile-app-with-dynamodb/4/)
+
 ### Day 7: June 11, Thursday 
 **Today's Progress**: Working on a data model with DynamoDB documentation
 
